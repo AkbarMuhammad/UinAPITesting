@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Master Test Suite 2" duration-ms="20681" started-at="2020-09-26T02:05:53 WIB" finished-at="2020-09-26T02:06:14 WIB">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20681" started-at="2020-09-26T02:05:53 WIB" finished-at="2020-09-26T02:06:14 WIB">
+      <class name="UinAPITesting.UinAPITesting.PHPTravelsLogin">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:UinAPITesting.UinAPITesting.PHPTravelsLogin@e320068]" name="setUpTest" is-config="true" duration-ms="2946" started-at="2020-09-26T02:05:53 WIB" finished-at="2020-09-26T02:05:56 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:UinAPITesting.UinAPITesting.PHPTravelsLogin@e320068]" name="LoginTest" duration-ms="17592" started-at="2020-09-26T02:05:56 WIB" finished-at="2020-09-26T02:06:14 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="LoginTestWithObjects()[pri:0, instance:UinAPITesting.UinAPITesting.PHPTravelsLogin@e320068]" name="LoginTestWithObjects" is-config="true" duration-ms="114" started-at="2020-09-26T02:06:14 WIB" finished-at="2020-09-26T02:06:14 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestWithObjects -->
+      </class> <!-- UinAPITesting.UinAPITesting.PHPTravelsLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Master Test Suite 2 -->
+</testng-results>
